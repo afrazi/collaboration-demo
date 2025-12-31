@@ -1,6 +1,5 @@
 Collaboration Demo Project
-
-
-Version 3.0
+\
+Version 2.5-alpha
 
 This is version 2.0 of the collaboration project!
