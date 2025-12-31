@@ -7,6 +7,7 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Create a branch
 - Submit a pull request
 
+# This is GAI generated comment.
 
 🤝 Collaboration Demo Project
 Welcome! This is a sandbox repository designed to practice Git workflows, GitHub Actions, and team collaboration in a controlled environment.
